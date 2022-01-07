@@ -2,8 +2,8 @@
 Responsive Coffe Shop Website 
 
 # Video Source
-[https://www.youtube.com/watch?v=TVFu4-Kd4oM&t=1563s](url)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TVFu4-Kd4oM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=TVFu4-Kd4oM&t=1563s
+thanks to : https://www.youtube.com/channel/UCKwgH3vASrD2brd1l2m6NHw
 
 # Full View
 Web view :
