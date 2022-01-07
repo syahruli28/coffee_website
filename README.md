@@ -2,7 +2,7 @@
 Responsive Coffe Shop Website 
 
 # Video Source
-https://www.youtube.com/watch?v=TVFu4-Kd4oM&t=1563s
+[https://www.youtube.com/watch?v=TVFu4-Kd4oM&t=1563s](url)
 
 # Full View
 Web view :
