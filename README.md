@@ -1,5 +1,5 @@
 # coffee_website
-Responsive Coffe Shop Website 
+Responsive Coffee Shop Website 
 
 # Video Source
 https://www.youtube.com/watch?v=TVFu4-Kd4oM&t=1563s
